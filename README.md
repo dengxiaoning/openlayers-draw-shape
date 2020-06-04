@@ -13,4 +13,7 @@
     ></iframe>
 ```
 
+`
+For the static resource of tiles, please go to my cloud disk address: ‘https://pan.baidu.com/s/1p7hnFUQzHrbxk9ZE16xLKQ’, extraction code: eybq
 
+`
