@@ -1,0 +1,219 @@
+[{
+		"nodeId": 1,
+		"pId": 0,
+		"text": "部队",
+		"icon": "glyphicon glyphicon-knight",
+		"coordinates": "",
+		"state": { 
+			"checked": true, 
+			"expanded": true,
+			"selected": false
+		},
+		"nodes": [{
+			"text": "13集团军",
+			"type":"army",
+			"level":8,
+			"nodeId": 101,
+			"pId": 1,
+			"icon": "",
+			"officer":220,
+			"Sergeant":1260,
+			"warrior":13800,
+			"arms":"99式主战坦克2辆，武装直升机1辆",
+			"coordinates": "106.11474622786045, -58.548889126628644",
+			"state": {
+				"checked": true, 
+				"expanded": true,
+				"selected": false
+			}
+		},  {
+			"text": "14集团军",
+			"type":"army",
+			"level":8,
+			"nodeId": 102,
+			"pId": 1,
+			"icon": "",
+			"officer":180,
+			"Sergeant":920,
+			"warrior":8710,
+			"arms":"运-20战略运输机5辆，空警-2000预警机1辆",
+			"coordinates": "104.84912109375, -57.96881121955813",
+			"state": {
+				"checked": true, 
+				"expanded": true,
+				"selected": false
+			}
+		}, {
+			"text": "18集团军",
+			"type":"army",
+			"level":8,
+			"nodeId": 103,
+			"pId": 1,
+			"icon": "",
+			"officer":150,
+			"Sergeant":800,
+			"warrior":14580,
+			"arms":"055型万吨驱逐舰1艘，歼-20隐身战斗机3架",
+			"coordinates": "103.92187506705523, -57.96002203971148",
+			"state": {
+				"checked": true, 
+				"expanded": true,
+				"selected": false
+			}
+		},{
+			"text": "第37摩步师",
+			"type":"army",
+			"level":8,
+			"nodeId": 104,
+			"pId": 1,
+			"icon": "",
+			"officer":610,
+			"Sergeant":1700,
+			"warrior":8000,
+			"arms":"92式9毫米手枪300支，QBZ95式自动步枪1200挺",
+			"coordinates":  "103.60107431933284, -61.041137762367725",
+			"state": {
+				"checked": true, 
+				"expanded": true,
+				"selected": false
+			}
+		},  {
+			"text": "第39装甲旅",
+			"type":"army",
+			"level":8,
+			"nodeId": 105,
+			"pId": 1,
+			"icon": "",
+			"officer":800,
+			"Sergeant":1100,
+			"warrior":7100,
+			"arms":"99坦克300辆，装甲车120辆",
+			"coordinates": "105.23144551366568, -59.42834476009011",
+			"state": {
+				"checked": true, 
+				"expanded": true,
+				"selected": false
+			}
+		}, {
+			"text": "第2路航旅",
+			"type":"army",
+			"level":8,
+			"nodeId": 106,
+			"pId": 1,
+			"icon": "",
+			"officer":750,
+			"Sergeant":3800,
+			"warrior":6580,
+			"arms":"装甲指挥车10辆，战车火炮8辆",
+			"coordinates":  "106.1015625, -60.57531734928489",
+			"state": {
+				"checked": true, 
+				"expanded": true,
+				"selected": false
+			}
+		},{
+			"text": "第4炮兵旅",
+			"type":"army",
+			"level":8,
+			"nodeId": 107,
+			"pId": 1,
+			"icon": "",
+			"officer":120,
+			"Sergeant":6260,
+			"warrior":9800,
+			"arms":"05A式两栖突击车80辆，03式远程多管火箭炮1枚",
+			"coordinates": "105.20727545768023, -57.60516359098255",
+			"state": {
+				"checked": true, 
+				"expanded": true,
+				"selected": false
+			}
+		},  {
+			"text": "第15工兵旅",
+			"type":"army",
+			"level":8,
+			"nodeId": 108,
+			"pId": 1,
+			"icon": "",
+			"officer":180,
+			"Sergeant":650,
+			"warrior":8810,
+			"arms":"红箭-10反坦克导弹发射车1辆，鹰击-62A岸舰导弹2艘",
+			"coordinates":"104.30200200341642, -57.26019287109374",
+			"state": {
+				"checked": true, 
+				"expanded": true,
+				"selected": false
+			}
+		}, {
+			"text": "第1边防团",
+			"type":"army",
+			"level":8,
+			"nodeId": 109,
+			"pId": 1,
+			"icon": "",
+			"officer":50,
+			"Sergeant":300,
+			"warrior":1450,
+			"arms":"装甲通讯车8辆，步兵战车40辆",
+			"coordinates": "104.98315426334739, -57.240417488850646",
+			"state": {
+				"checked": true, 
+				"expanded": true,
+				"selected": false
+			}
+		},{
+			"text": "第52山地旅",
+			"type":"army",
+			"level":8,
+			"nodeId": 1091,
+			"pId": 1,
+			"icon": "",
+			"officer":110,
+			"Sergeant":900,
+			"warrior":5000,
+			"arms":"QBZ95B式短自动步枪190支，狙击步枪4支",
+			"coordinates":  "105.65332044661045, -57.575500471517444",
+			"state": {
+				"checked": true, 
+				"expanded": true,
+				"selected": false
+			}
+		},  {
+			"text": "第40丛林步兵旅",
+			"type":"army",
+			"level":8,
+			"nodeId": 1091,
+			"pId": 1,
+			"icon": "",
+			"officer":600,
+			"Sergeant":2100,
+			"warrior":8760,
+			"arms":"QJZ89式5支，手榴弹200枚",
+			"coordinates":  "105.56982431933285, -57.20526123885065",
+			"state": {
+				"checked": true, 
+				"expanded": true,
+				"selected": false
+			}
+		}, {
+			"text": "第149山地机步师",
+			"type":"army",
+			"level":8,
+			"nodeId": 1093,
+			"pId": 1,
+			"icon": "",
+			"officer":850,
+			"Sergeant":2800,
+			"warrior":8580,
+			"arms":"小口径火炮20台，榴弹炮2枚",
+			"coordinates": "106.43115254491569, -57.46453856583685",
+			"state": {
+				"checked": true, 
+				"expanded": true,
+				"selected": false
+			}
+		}]
+
+	}
+]
